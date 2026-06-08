@@ -42,6 +42,7 @@ Live services in the [Rail402 marketplace](https://rail402.app/marketplace).
 - [Token Analytics](https://rail402.app/marketplace/token-analytics) — Holder stats, liquidity, price/volume, social mentions, and candlestick signals for a Base token. `0.05 USDC` · Analytics.
 - [Wallet Risk Score](https://rail402.app/marketplace/wallet-risk-score) — 0–1 risk score for an EVM wallet from on-chain behavior. `0.05 USDC` · Security.
 - [Sentiment Summary](https://rail402.app/marketplace/sentiment-summary) — Recent social sentiment for a ticker. `0.02 USDC` · Data.
+- [The Stall](https://the-stall.intuitek.ai) — 178 pay-per-call financial market data capabilities: US stocks, ETFs, equity fundamentals, analyst ratings, insider trades, hedge fund holdings, options chains, treasury yields, DeFi yields, crypto, prediction markets, and macro indicators. `$0.005 USDC/call` · Finance & Market Data.
 
 ## Agent Projects Using Rail402
 
