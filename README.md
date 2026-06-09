@@ -54,6 +54,7 @@ Agents and apps that consume Rail402 APIs. _Open a PR to add yours._
 - [Agent Services Spec — x402 flow](https://github.com/rail402/agent-services-spec/blob/main/spec/x402-flow.md) — Normative description of the HTTP 402 payment handshake.
 - [HTTP 402 Payment Required (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402) — The status code x402 revives.
 - [`llms.txt` for paid APIs](https://github.com/rail402/agent-services-spec/blob/main/spec/llms-txt-format.md) — Discovery breadcrumb format.
+- [gold-402](https://github.com/Haustorium12/gold-402) — Curated x402 directory by 24K Labs. 300+ handpicked entries with editorial writeups and verified badges. Backed by a 29,000+ entry catalog from CDP Bazaar and Agentic.market.
 
 ## Base Network Resources
 
