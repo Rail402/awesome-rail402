@@ -33,6 +33,7 @@ Maintained by the Rail402 team.
 
 SDKs and integrations built by the community. _Open a PR to add yours._
 
+- [Zero](https://zero.xyz) — x402/MPP integration that lets your AI discover and pay for real services per use at runtime. Ships a CLI, an MCP connector, and a Claude Code plugin. Free to start; pennies per call.
 - _Your library here — see [CONTRIBUTING.md](./CONTRIBUTING.md)._
 
 ## Published APIs
