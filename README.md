@@ -39,6 +39,7 @@ SDKs and integrations built by the community. _Open a PR to add yours._
 
 Live services in the [Rail402 marketplace](https://rail402.app/marketplace).
 
+- [AgentServices](https://github.com/vbkotecha/aiservices-api) — Paid data APIs for AI agents. 29 endpoints: crypto prices, DeFi yields, indicators, dispute resolution. x402 on Base. MCP endpoint at api.aiservices.to/mcp.
 - [Token Analytics](https://rail402.app/marketplace/token-analytics) — Holder stats, liquidity, price/volume, social mentions, and candlestick signals for a Base token. `0.05 USDC` · Analytics.
 - [Wallet Risk Score](https://rail402.app/marketplace/wallet-risk-score) — 0–1 risk score for an EVM wallet from on-chain behavior. `0.05 USDC` · Security.
 - [Sentiment Summary](https://rail402.app/marketplace/sentiment-summary) — Recent social sentiment for a ticker. `0.02 USDC` · Data.
