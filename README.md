@@ -52,6 +52,7 @@ Agents and apps that consume Rail402 APIs. _Open a PR to add yours._
 ## x402 Resources
 
 - [Agent Services Spec — x402 flow](https://github.com/rail402/agent-services-spec/blob/main/spec/x402-flow.md) — Normative description of the HTTP 402 payment handshake.
+- [Colombia TRM](https://x402.lagaceta.net/trm) — Official Superintendencia Financiera daily USD/COP. `$0.005 USDC` · Finance.
 - [HTTP 402 Payment Required (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402) — The status code x402 revives.
 - [`llms.txt` for paid APIs](https://github.com/rail402/agent-services-spec/blob/main/spec/llms-txt-format.md) — Discovery breadcrumb format.
 
