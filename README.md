@@ -37,6 +37,7 @@ SDKs and integrations built by the community. _Open a PR to add yours._
 
 ## Published APIs
 
+- [NEX Agent Co.](https://charm-preparing-avon-ips.trycloudflare.com) — Multi-tier paid AI inference on Base USDC. 11 x402 endpoints: chat (`$0.001`), code (`$0.005`), code-pro (`$0.012` Qwen3-Coder-Next 80B-A3B), vision (`$0.01`), embed (`$0.0001`), OpenAI-compatible chat-completions, plus 5 free data tools. Backed by local open-weight models on M5 Max 128GB. Wallet pays EIP-3009 USDC, no API key. ([MCP](https://github.com/NEXAITECHAU/nex-agent-co-mcp)) · ([Discovery](https://charm-preparing-avon-ips.trycloudflare.com/.well-known/x402.json))
 Live services in the [Rail402 marketplace](https://rail402.app/marketplace).
 
 - [Token Analytics](https://rail402.app/marketplace/token-analytics) — Holder stats, liquidity, price/volume, social mentions, and candlestick signals for a Base token. `0.05 USDC` · Analytics.
