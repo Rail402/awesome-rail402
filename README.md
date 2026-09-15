@@ -61,6 +61,8 @@ Agents and apps that consume Rail402 APIs. _Open a PR to add yours._
 - [Base MCP](https://github.com/base/base-mcp) — MCP server for Base wallets and chain actions; pairs with `rail402-mcp`.
 - [USDC on Base](https://www.circle.com/usdc) — The settlement currency (`0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913`).
 - [Base Docs](https://docs.base.org) — Network docs, RPC endpoints, and faucets.
+- [HostDeFi](https://hostdefi.com) - Token-safety scanner with x402-paid API endpoints: verdicts, signals, radar and EVM swap quotes in USDC; keyless free tier.
+
 
 ## Related Standards
 
