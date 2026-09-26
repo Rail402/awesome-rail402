@@ -39,6 +39,7 @@ SDKs and integrations built by the community. _Open a PR to add yours._
 
 Live services in the [Rail402 marketplace](https://rail402.app/marketplace).
 
+- [x402-ping](https://x402-ping.palmbeachpete.workers.dev) — Live Base USDC x402 premium ping for agent payment/health checks. HTTP 402 exact `0.05 USDC` on Base (eip155:8453) → treasury. Free discovery + tip/unlock. ([/premium](https://x402-ping.palmbeachpete.workers.dev/premium)) · ([Discovery](https://x402-ping.palmbeachpete.workers.dev/.well-known/x402)) · Infrastructure.
 - [Token Analytics](https://rail402.app/marketplace/token-analytics) — Holder stats, liquidity, price/volume, social mentions, and candlestick signals for a Base token. `0.05 USDC` · Analytics.
 - [Wallet Risk Score](https://rail402.app/marketplace/wallet-risk-score) — 0–1 risk score for an EVM wallet from on-chain behavior. `0.05 USDC` · Security.
 - [Sentiment Summary](https://rail402.app/marketplace/sentiment-summary) — Recent social sentiment for a ticker. `0.02 USDC` · Data.
