@@ -50,6 +50,7 @@ Agents and apps that consume Rail402 APIs. _Open a PR to add yours._
 - [rail402/examples](https://github.com/rail402/examples) — Reference agents (LangChain, Claude, OpenAI, MCP) that discover and pay for marketplace APIs.
 
 ## x402 Resources
+- [Vend Browser Agent](https://extract.paypercall.dev/api/v1/browser-agent) — Pay-per-call browser automation and stealth scraping over x402, settled in Nano (XNO); no account or API key.
 
 - [Agent Services Spec — x402 flow](https://github.com/rail402/agent-services-spec/blob/main/spec/x402-flow.md) — Normative description of the HTTP 402 payment handshake.
 - [HTTP 402 Payment Required (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402) — The status code x402 revives.
