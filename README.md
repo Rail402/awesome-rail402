@@ -35,6 +35,8 @@ SDKs and integrations built by the community. _Open a PR to add yours._
 
 - _Your library here — see [CONTRIBUTING.md](./CONTRIBUTING.md)._
 
+- [usdc-paywall](https://github.com/essentoclothes-sudo/usdc-paywall) — Zero-dependency USDC paywall for Node.js: HTTP 402 middleware, on-chain tx-hash verification (Base / any EVM), CLI. Monetize any endpoint per-call.
+
 ## Published APIs
 
 Live services in the [Rail402 marketplace](https://rail402.app/marketplace).
