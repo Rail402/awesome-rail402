@@ -40,6 +40,7 @@ SDKs and integrations built by the community. _Open a PR to add yours._
 Live services in the [Rail402 marketplace](https://rail402.app/marketplace).
 
 - [Token Analytics](https://rail402.app/marketplace/token-analytics) — Holder stats, liquidity, price/volume, social mentions, and candlestick signals for a Base token. `0.05 USDC` · Analytics.
+- [AutoTasker Hub](https://autotasker.highkingflower.com) — Pay-per-call China social trending data (Weibo, Douban, Zhihu, Bilibili), keyword search and 24h digest for AI agents. USDC on Base via x402, no account or API key. `variable USDC` · Data. MCP: `https://autotasker.highkingflower.com/mcp`.
 - [Wallet Risk Score](https://rail402.app/marketplace/wallet-risk-score) — 0–1 risk score for an EVM wallet from on-chain behavior. `0.05 USDC` · Security.
 - [Sentiment Summary](https://rail402.app/marketplace/sentiment-summary) — Recent social sentiment for a ticker. `0.02 USDC` · Data.
 
